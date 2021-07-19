@@ -1,0 +1,2 @@
+(this["webpackJsonp@mgcode/local-client"]=this["webpackJsonp@mgcode/local-client"]||[]).push([[189],{373:function(t,n){Prism.languages.ini={comment:/^[ \t]*[;#].*$/m,selector:/^[ \t]*\[.*?\]/m,constant:/^[ \t]*[^\s=]+?(?=[ \t]*=)/m,"attr-value":{pattern:/=.*/,inside:{punctuation:/^[=]/}}}}}]);
+//# sourceMappingURL=189.72431e09.chunk.js.map
